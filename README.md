@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @footballio
+- 👀 I’m interested in data analysis and automation
+- 🌱 I’m currently learning python, restful, ML and AWS
+- 💞️ I’m looking to collaborate on FPL apps and betting tools (for professional and leisure purposes)
+- 📫 You can reaach me on Twitter @asaf757
